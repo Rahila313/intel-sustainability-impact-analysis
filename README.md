@@ -1,4 +1,4 @@
-# Sustainability Impact Analysis – Intel Device Repurposing
+# Intel Device Repurposing — Sustainability Impact Analysis (SQL Project)
 
 ## Project Overview
 This project evaluates the sustainability impact of device repurposing initiatives at Intel, focusing on energy savings, CO₂ emission reductions, and lifecycle extension of laptops and desktops.
@@ -34,6 +34,12 @@ A derived field (`device_age`) was created to analyze lifecycle impact.
 - Prioritize repurposing **mid-age and older laptops**
 - Focus efforts in **high carbon-intensity regions**
 - Balance usability with sustainability impact to maximize returns
+  
+## Assumptions & Scope
+- Analysis is based on structured, anonymized datasets representing device repurposing activity
+- Calculations reflect annualized savings estimates
+- Results are intended for analytical demonstration and strategic insight, not audited reporting
+
 
 ## Outcome
 This analysis demonstrates how SQL-driven analytics can support sustainability strategy, operational decision-making, and environmental impact optimization.
